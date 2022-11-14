@@ -1,3 +1,3 @@
 # TecnicusCode
 
-That is the code for Tecnicus Robot.
+That is my code for Tecnicus Robot.
